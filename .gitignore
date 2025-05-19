@@ -1,0 +1,6 @@
+*.o
+*.out
+*.exe
+test
+*.swp
+*.DS_Store
